@@ -1,0 +1,16 @@
+export const LOTTIE_ICONS = {
+    home: require('../assets/lottie/home-icon.json'),
+    progress: require('../assets/lottie/progress-icon.json'),
+    lessons: require('../assets/lottie/lessons-icon.json'),
+    profile: require('../assets/lottie/profile-icon.json'),
+    streetCrossing: require('../assets/lottie/street-crossing.json'),
+    shopping: require('../assets/lottie/shopping.json'),
+    transport:require('../assets/lottie/public-transport.json'),
+    crossingGame :require('../assets/lottie/street-crossin-game.json'),
+    shoppingGame: require('../assets/lottie/shopping-game.json'),
+    bus:require('../assets/lottie/bus-animation.json'),
+    train:require('../assets/lottie/train-animation.json'),
+    walking:require('../assets/lottie/walking-animation.json'),
+    listening:require('../assets/lottie/listening.json'),
+    success:require('../assets/lottie/success.json'),
+};
